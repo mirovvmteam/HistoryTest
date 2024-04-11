@@ -20,7 +20,7 @@ var questionsDatabase = [
   {
     question: "Đây là cuộc cải cách lớn nhất và cuối cùng trong lịch sử chế độ phong kiến Việt Nam.",
     options: ["Đúng.", "Sai."],
-    correctAnswer: 0,
+    correctAnswer: 1,
 	id: 4
   },
 ];

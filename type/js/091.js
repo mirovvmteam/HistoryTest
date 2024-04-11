@@ -2,7 +2,7 @@ var questionsDatabase = [
   {
     question: "Cuộc cải cách đã hoàn thiện cơ cấu nhà nước chuyên chế trung ương tập quyền.",
     options: ["Đúng.", "Sai."],
-    correctAnswer: 0,
+    correctAnswer: 1,
     id: 1
   },
   {
@@ -14,13 +14,13 @@ var questionsDatabase = [
   {
     question: "Đây là cuộc cải cách tiến bộ, lớn nhất trong lịch sử chế độ phong kiến Việt Nam.",
     options: ["Đúng.", "Sai."],
-    correctAnswer: 0,
+    correctAnswer: 1,
 	id: 3
   },
   {
     question: "Thành công của cuộc cái cách góp phần bảo vệ vững chắc nền độc lập dân tộc.",
     options: ["Đúng.", "Sai."],
-    correctAnswer: 0,
+    correctAnswer: 1,
 	id: 4
   },
 ];

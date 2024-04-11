@@ -2,7 +2,7 @@ var questionsDatabase = [
   {
     question: "Cuộc cải cách được tiến hành trong bối cảnh bộ máy nhà nước đã hoàn thiện và ổn định.",
     options: ["Đúng.", "Sai."],
-    correctAnswer: 0,
+    correctAnswer: 1,
     id: 1
   },
   {
@@ -14,7 +14,7 @@ var questionsDatabase = [
   {
     question: "Cuộc cải cách trên lĩnh vực hành chính nhằm tăng cường xu hướng phân tán quyền lực.",
     options: ["Đúng.", "Sai."],
-    correctAnswer: 0,
+    correctAnswer: 1,
 	id: 3
   },
   {
