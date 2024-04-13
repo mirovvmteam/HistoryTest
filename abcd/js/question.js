@@ -39,7 +39,7 @@ var questionsDatabase = [{
     'correctAnswer': 3,
     'id': 8
 }, {
-    'question': 'Câu nói trên là của nhân vật nào sau đây?',
+    'question': '“Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang san, cởi ách nô lệ, hả chịu cúi đầu làm tì thiếp cho người ta!”. Câu nói trên là của nhân vật nào sau đây?',
     'options': ['Bà Triệu (Triệu Thị Trinh )', 'Bà Trưng Trắc', 'Nữ tướng Bùi Thị Xuân', 'Công chúa Lê Ngọc Hân'],
     'correctAnswer': 0,
     'id': 9
@@ -494,7 +494,7 @@ var questionsDatabase = [{
     'correctAnswer': 3,
     'id': 99
 }, {
-    'question': 'Lời căn dặn trên của vua Lê Thái Tông phản ánh điều gì?',
+    'question': '“Một thước núi, một tấc sông của ta lẽ nào lại vứt bỏ… Kẻ nào dám đem một tấc đất của Thái Tổ làm mồi cho giặc thì tội phải tru di”. Lời căn dặn trên của vua Lê Thái Tông phản ánh điều gì?',
     'options': ['Ý thức về việc bảo vệ chủ quyền quốc gia dân tộc.', 'Sách lược ngoại giao của nhà Lê đối với Trung Hoa.', 'Chính sách đoàn kết để bảo vệ chủ quyền dân tộc.', 'Chính sách Nam tiến của nhà Lê.'],
     'correctAnswer': 0,
     'id': 100
