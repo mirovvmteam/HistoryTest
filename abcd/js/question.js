@@ -619,7 +619,7 @@ var questionsDatabase = [{
     'correctAnswer': 0,
     'id': 124
 }, {
-    'question': 'Cơ quan này không có nhiệm vụ:',
+    'question': 'Năm 1829,vua Minh Mạng cho lập Nội các thay thế cho Văn thư phòng. Cơ quan này không có nhiệm vụ:',
     'options': ['tiếp nhận và xử lí công văn.', 'giúp vua khởi thảo văn bản hành chính.', 'coi giữ ấn tín, lưu trữ châu bản.', 'giám sát việc thi hành luật pháp và quy định của triều đình.'],
     'correctAnswer': 3,
     'id': 125
