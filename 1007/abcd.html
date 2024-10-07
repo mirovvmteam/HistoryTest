@@ -2,25 +2,28 @@
 <head>
     <title>Trắc nghiệm Tổng hợp</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<link rel="stylesheet" href="struc/style2.css">
+	<link rel="stylesheet" href="/HistoryTest/struc/style.css">
 	<meta http-equiv="Cache-control" content="no-cache">
 	<meta http-equiv="Expires" content="-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1"
 	<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA/4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAREREQERAAARERERERAAARAAAAERAAARAAAAEREQABEAAAERARAAEQAAARABEAARAAAAAAEQABEAAAAAARAAEQAAAAABEAARAAAAAAEQABEAAAAAARAAARAAAAARAAAAERERERAAAAABERERAAD//wAA//wAAPgIAADwAQAA5+MAAM/BAADPiQAAz5kAAM/5AADP+QAAz/kAAM/5AADP+QAA5/MAAPAHAAD4DwAA" rel="icon" type="image/x-icon">
 </head>
 <body>
-    <h1>Tổng hợp các đề trắc nghiệm:</h1>
+    <a href="index.html">
+    <button>Quay lại trang chủ</button>
+	</a>
+    <h1>Trắc nghiệm nhiều câu</h1>
+    <div id="questions-container"></div>
 	<br>
-	<button type="button" class="collapsible">Đề mới nhất</button>
-	<div class="content">
-		<p><a href="1007/index.html">Ngày 07/10 (Trắc nghiệm 12L)</a></p>
-	</div>
-   	<br>
-	<button type="button" class="collapsible">Đề cũ</button>
-	<div class="content">
-		<p><a href="#">NULL</a></p>
-	</div>
+    <button onclick="submitAnswers()">Chấm điểm</button>
+	<button onClick="window.location.href=window.location.href">Làm lại bài</button>
 	<br>
-	<script src="struc/collapse.js" charset="utf-8"></script>
+	<div id="score"></div>
+	<script>
+		var questionAmount = 24;
+		var questionScore = 1;
+	</script>
+	<script src="question.js" charset="utf-8"></script>
+	<script src="/HistoryTest/struc/script-no.js" charset="utf-8"></script>
 </body>
 </html>
