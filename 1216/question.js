@@ -31,7 +31,7 @@ var questionsDatabase = [{
 }, {
     'question': 'Hệ thống AI có tri thức nghĩa là:',
     'options': ['Có khả năng lưu trữ thông tin', 'Có khả năng xử lý và áp dụng thông tin một cách phù hợp', 'Chỉ có thể đọc dữ liệu', 'Chỉ có thể sao chép thông tin'],
-    'correctAnswer': 3,
+    'correctAnswer': 1,
     'id': 7
 }, {
     'question': 'AI có thể góp phần vào việc:',
@@ -134,7 +134,7 @@ var questionsDatabase = [{
     'correctAnswer': 2,
     'id': 27
 }, {
-    'question': 'Trong HTML, thẻ <meta> thường được đặt ở đâu?',
+    'question': 'Trong HTML, thẻ &lt;meta&gt; thường được đặt ở đâu?',
     'options': ['Cuối trang', 'Trong phần body', 'Trong phần head', 'Bất kỳ đâu'],
     'correctAnswer': 2,
     'id': 28
@@ -174,7 +174,7 @@ var questionsDatabase = [{
     'correctAnswer': 2,
     'id': 35
 }, {
-    'question': 'Thẻ <th> trong bảng HTML dùng để:',
+    'question': 'Thẻ &lt;th&gt; trong bảng HTML dùng để:',
     'options': ['Tạo hàng mới', 'Tạo ô tiêu đề', 'Tạo cột mới', 'Tạo chân bảng'],
     'correctAnswer': 1,
     'id': 36
@@ -209,7 +209,7 @@ var questionsDatabase = [{
     'correctAnswer': 2,
     'id': 42
 }, {
-    'question': 'Thuộc tính alt trong thẻ <img> có tác dụng:',
+    'question': 'Thuộc tính alt trong thẻ &lt;img&gt; có tác dụng:',
     'options': ['Thay đổi kích thước ảnh', 'Hiển thị chú thích khi di chuột', 'Hiển thị văn bản thay thế khi ảnh không tải được', 'Tạo đường viền cho ảnh'],
     'correctAnswer': 2,
     'id': 43
